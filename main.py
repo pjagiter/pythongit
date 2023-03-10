@@ -4,6 +4,7 @@ import requests
 
 #pageurl = 'https://github.com'
 #date = 20150101
+#small change
 pageurl = input("podaj adres strony: ")
 date = input("podaj date np. 20230130")
 url = 'http://archive.org/wayback/available?url=' + pageurl + '&timestamp=' + str(date)
