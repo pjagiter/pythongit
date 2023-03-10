@@ -1,7 +1,7 @@
 # This is a sample Python script.
 import webbrowser
 import requests
-#change
+
 #pageurl = 'https://github.com'
 #date = 20150101
 pageurl = input("podaj adres strony: ")
